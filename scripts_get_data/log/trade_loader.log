@@ -1318,3 +1318,7 @@
 2025-07-08 16:43:27,152 - INFO - 📡 Đang lấy dữ liệu trade
 2025-07-08 16:43:27,619 - INFO - Websocket connected
 2025-07-08 16:43:28,673 - INFO - ✅ Đã lấy thành công dữ liệu tổng cộng 50 dòng.
+2025-07-08 17:02:16,921 - INFO - 📡 Đang lấy dữ liệu trade
+2025-07-08 17:02:17,369 - INFO - Websocket connected
+2025-07-08 17:02:18,437 - INFO - ✅ Đã lấy thành công dữ liệu tổng cộng 50 dòng.
+2025-07-08 17:02:23,205 - INFO - 🎉 Thành công load dữ liệu trade vào DB.

@@ -1318,3 +1318,7 @@
 2025-07-08 16:43:27,124 - INFO - Đang lấy dữ liệu candle 1m cho
 2025-07-08 16:43:27,619 - INFO - Websocket connected
 2025-07-08 16:43:28,644 - INFO - Thu thập thành công 50 dòng
+2025-07-08 17:02:15,468 - INFO - Đang lấy dữ liệu candle 1m cho
+2025-07-08 17:02:15,918 - INFO - Websocket connected
+2025-07-08 17:02:16,991 - INFO - Thu thập thành công 50 dòng
+2025-07-08 17:02:21,761 - INFO - ✅ Thành công load vào DB.
