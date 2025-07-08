@@ -5,10 +5,10 @@ def load_to_db(schema_name, table_name, df):
     Lưu DataFrame vào schema và bảng cụ thể trong cơ sở dữ liệu.
     """
     user_name='sa'
-    password='2405'
+    password='YourStrong!Passw0rd'
     database='Coin_Analysis_DB'
-    server='localhost'
-    driver='ODBC+Driver+17+for+SQL+Server'
+    server='34.61.216.41,1433'
+    driver='ODBC Driver 17 for SQL Server'
     engine = create_engine(
         f"mssql+pyodbc://{user_name}:{password}@{server}/{database}?driver={driver}"
     )
